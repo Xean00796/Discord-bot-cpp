@@ -10,11 +10,10 @@ Other links for install:
 [:link:](https://visualstudio.microsoft.com/ "Visual Studio 2019") [Visual Studio 2019](https://visualstudio.microsoft.com/)<br />
 [:link:](https://git-scm.com/ "Git") [Git](https://git-scm.com/)<br />
 
-[![Build Status](https://travis-ci.org/{script20}/{Discord-bot-cpp}.png?branch=master)](https://travis-ci.org/{script20}/{Discord-bot-cpp})
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.org)
-[![Code](http://img.shields.io/:code-c++-cyan.svg?style=flat-square)](http://badges.org)
-[![Stability](http://img.shields.io/:version-Unstable-red.svg?style=flat-square)](http://badges.org)
 [![Version](http://img.shields.io/:version-0.0-red.svg?style=flat-square)](http://badges.org)
+[![Stability](http://img.shields.io/:version-Unstable-red.svg?style=flat-square)](http://badges.org)
+[![Code](http://img.shields.io/:code-c++-cyan.svg?style=flat-square)](http://badges.org)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.org)
 
 ## Build Status
 | OS | Windows |
