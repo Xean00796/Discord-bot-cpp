@@ -6,7 +6,7 @@ This is still very early in development not recommended to use.
 [![Discord Server](https://discordapp.com/api/guilds/354003394718859275/embed.png?style=banner2)](discord.gg/D2YJFBm)
 
 # [Installation Documentation](https://github.com/Xean00796/Discord-bot-cpp/wiki/Installation-guide.)
-Other links for install
+Other links for install:
 [:link:](https://visualstudio.microsoft.com/ "Visual Studio 2019") [Visual Studio 2019](https://visualstudio.microsoft.com/)<br />
 [:link:](https://git-scm.com/ "Git") [Git](https://git-scm.com/)<br />
 
