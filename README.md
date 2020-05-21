@@ -7,8 +7,8 @@ This is still very early in development not recommended to use.
 
 # [Installation Documentation](https://github.com/Xean00796/Discord-bot-cpp/wiki/Installation-guide.)
 Other links for install
-:link:(https://visualstudio.microsoft.com/ "Visual Studio 2019") [Visual Studio 2019](https://visualstudio.microsoft.com/)<br />
-:link:(https://git-scm.com/ "Git") [Git](https://git-scm.com/)<br />
+[:link:](https://visualstudio.microsoft.com/ "Visual Studio 2019") [Visual Studio 2019](https://visualstudio.microsoft.com/)<br />
+[:link:](https://git-scm.com/ "Git") [Git](https://git-scm.com/)<br />
 
 [![Build Status](https://travis-ci.org/{script20}/{Discord-bot-cpp}.png?branch=master)](https://travis-ci.org/{script20}/{Discord-bot-cpp})
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.org)
