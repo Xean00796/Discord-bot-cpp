@@ -11,11 +11,10 @@ Other links for install:
 [:link:](https://git-scm.com/ "Git") [Git](https://git-scm.com/)<br />
 
 [![Version](http://img.shields.io/:version-0.0-red.svg?style=flat-square)](http://badges.org)
-[![Stability](http://img.shields.io/:version-Unstable-red.svg?style=flat-square)](http://badges.org)
 [![Code](http://img.shields.io/:code-c++-cyan.svg?style=flat-square)](http://badges.org)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.org)
 
 ## Build Status
 | OS | Windows |
 | ------ | ------- |
-| Master   | [![Build Status](https://dev.azure.com/wuhao64/sleepy-discord/_apis/build/status/yourWaifu.sleepy-discord?branchName=master)](https://dev.azure.com/wuhao64/sleepy-discord/_build/?definitionId=2)
+| Master   | [![Stability](http://img.shields.io/:version-Unstable-red.svg?style=flat-square)](http://badges.org)
