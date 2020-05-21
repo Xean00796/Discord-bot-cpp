@@ -17,4 +17,4 @@ Other links for install:
 
 | OS | Windows |
 | ------ | ------- |
-| Master   | [![Stability](http://img.shields.io/:version-Unstable-red.svg?style=flat-square)](http://badges.org)
+| Master   | [![Stability](http://img.shields.io/:Stability-Unstable-red.svg?style=flat-square)](http://badges.org)
